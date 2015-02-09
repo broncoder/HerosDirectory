@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/classes-e08e56efa67fb868e9426d9ad139d8a3c7ffbd4d.jar" />
+    </item>
+    <item
+        jar="/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/classes-127b95a3a7fe2a2bf0b78388406eedaa2769e993.jar" />
+    </item>
+    <item
+        jar="/Users/MatthewJin/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c2faa7d627a1cb2283067f609a0bd85affdf819d.jar" />
+    </item>
+    <item
+        jar="/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-07e45463ea516efe1169e5f25c2f70881c034a47.jar" />
+    </item>
+
+</items>

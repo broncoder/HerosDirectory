@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/text_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:padding="10dp"
+        android:text="App Author: Jin"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/text_uninstall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:text="(415)-317-3079"
+        android:textSize="45sp" />
+    	
+</RelativeLayout>
+<!-- From: file:/Users/MatthewJin/Downloads/coen268-master%202/Dota2Heros/app/src/main/res/layout/activeity_info.xml -->

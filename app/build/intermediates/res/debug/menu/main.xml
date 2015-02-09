@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dota2heros.MainActivity" >
+
+    <item android:id="@+id/information"
+		android:title="@string/information" 
+		app:showAsAction="always"/>
+    
+	<item android:id="@+id/uninstall"
+		android:title="@string/uninstall" 
+		app:showAsAction="always"/>    
+
+</menu>
+<!-- From: file:/Users/MatthewJin/Downloads/coen268-master%202/Dota2Heros/app/src/main/res/menu/main.xml -->

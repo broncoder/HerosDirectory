@@ -1,0 +1,5 @@
+/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/classes/debug
+/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c2faa7d627a1cb2283067f609a0bd85affdf819d.jar
+/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-07e45463ea516efe1169e5f25c2f70881c034a47.jar
+/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/classes-e08e56efa67fb868e9426d9ad139d8a3c7ffbd4d.jar
+/Users/MatthewJin/Downloads/coen268-master 2/Dota2Heros/app/build/intermediates/pre-dexed/debug/classes-127b95a3a7fe2a2bf0b78388406eedaa2769e993.jar
